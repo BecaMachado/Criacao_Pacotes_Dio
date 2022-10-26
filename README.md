@@ -1,9 +1,10 @@
 # package_name
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package package_desafios_intermediarios is used to:
+	- Desafio de realizar calculo de reajuste salarial
+	- Desafio do papagio inteligente
+
 
 ## Installation
 
@@ -21,7 +22,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Angelica
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
